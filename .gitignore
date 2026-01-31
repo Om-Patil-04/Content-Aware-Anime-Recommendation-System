@@ -1,6 +1,9 @@
 # virtual environment
 venv/
 
+#Build files
+build/
+
 # python junk
 __pycache__/
 *.pyc
