@@ -3,3 +3,6 @@ numpy
 setuptools
 google-cloud-storage
 PyYAML
+scikit-learn
+pytorch
+matplotlib
