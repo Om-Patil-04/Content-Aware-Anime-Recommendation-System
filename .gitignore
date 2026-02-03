@@ -16,3 +16,6 @@ Logs/
 
 # env files
 .env
+ 
+ artifacts/
+ models/
