@@ -1,8 +1,8 @@
-pandas
 numpy
-setuptools
-google-cloud-storage
-PyYAML
+pandas
+torch
 scikit-learn
-pytorch
+tqdm
 matplotlib
+seaborn
+setuptools
