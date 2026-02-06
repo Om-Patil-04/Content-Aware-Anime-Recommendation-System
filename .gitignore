@@ -18,5 +18,3 @@ Logs/
 .env
  
  artifacts/
-
- models/
